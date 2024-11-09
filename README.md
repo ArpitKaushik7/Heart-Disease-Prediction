@@ -1,7 +1,3 @@
-Great! Here's an updated README with your repository link included:
-
----
-
 # Heart Disease Prediction using Logistic Regression
 
 This project implements a logistic regression model from scratch to predict heart disease based on various health indicators. The model is trained using gradient descent to optimize weights and bias. It also includes data preprocessing, visualization, and performance evaluation on test data.
@@ -94,5 +90,3 @@ This project uses logistic regression to classify whether a patient has heart di
 ### License
 
 This project is licensed under the MIT License. 
-
----
